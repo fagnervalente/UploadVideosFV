@@ -1,0 +1,4 @@
+node_modules/
+awsconfig.json
+.DS_Store
+*.sublime-*
